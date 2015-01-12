@@ -37,3 +37,30 @@ html {
     background-color: #E7E5D9;
 
 }
+
+.reward {
+    background-color: #87714F;
+    color: white;
+}
+
+.center {
+    text-align: center;   
+}
+
+.img-flex {
+    display: block;
+    width: 100%;
+}
+
+.img {
+    position: relative;
+}
+
+.panel {
+    border-image: url(../images/border-image.png) 36 36 36 36 stretch stretch;
+    border-width: 36px 36px 36px 36px;
+}
+
+.wanted {
+    width: 5em;  
+}
