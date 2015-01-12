@@ -39,12 +39,12 @@ html {
 }
 
 .reward {
-    background-color: #87714F;
+    background: url("../images/colour-background.jpg")center;
     color: white;
 }
 
 .center {
-    text-align: center;   
+    text-align: center;  
 }
 
 .img-flex {
@@ -59,8 +59,16 @@ html {
 .panel {
     border-image: url(../images/border-image.png) 36 36 36 36 stretch stretch;
     border-width: 36px 36px 36px 36px;
+    
 }
 
 .wanted {
-    width: 5em;  
+    width: 4em;  
+    float: left;
+    position: relative;
+}
+
+div {
+    margin: 0;
+    padding: 0;
 }
